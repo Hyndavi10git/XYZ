@@ -1,2 +1,2 @@
 # XYZ
-this is repo nis used for project 
+this is repo  used for project 
